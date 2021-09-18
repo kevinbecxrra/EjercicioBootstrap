@@ -1,0 +1,50 @@
+.banner
+{
+    background-color:#5b493c;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 5em;
+}
+
+.topmenu
+{
+    font-weight: bold;
+    background-color:#c39182;
+    text-align: center;
+}
+
+.leftmenu
+{
+    font-weight: bold;
+    background-color:#f99a3e;
+    text-align: center;
+}
+.pic-even {
+    font-weight: bold;
+    background-color:#c5697a;
+    text-align: center;
+    }
+.pic-odd {
+    font-weight: bold;
+    background-color: #00a2b6;
+    text-align: center;
+}
+
+.maincontent{
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    block-size: 150px;
+}
+
+.footer
+{
+    background-color:#5b493c;
+    color: white;
+    text-align: center;
+}
